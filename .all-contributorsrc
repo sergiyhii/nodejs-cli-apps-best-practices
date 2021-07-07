@@ -1,0 +1,69 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vvni",
+      "name": "Vanilla",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50414099?v=4",
+      "profile": "https://blog.vvni.top/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "terkelg",
+      "name": "Terkel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2302254?v=4",
+      "profile": "https://terkel.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jasonkarns",
+      "name": "Jason Karns",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/119972?v=4",
+      "profile": "http://jasonkarns.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "davesag",
+      "name": "Dave Sag",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/387098?v=4",
+      "profile": "https://about.me/davesag",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "JoseJPR",
+      "name": "José J. Pérez Rivas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12954959?v=4",
+      "profile": "https://josejpr.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "m-sureshraj",
+      "name": "Sureshraj",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12813750?v=4",
+      "profile": "https://twitter.com/MSuresh100",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "nodejs-cli-apps-best-practices",
+  "projectOwner": "lirantal",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
